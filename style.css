@@ -63,14 +63,14 @@ button {
 }
 
 .subsContainer{
-    background-color: aqua;
+/*     background-color: aqua; */
     width: fit-content;
     margin: auto;
 }
 
-.subs{
+/* .subs{
     background-color: chartreuse;
-}
+} */
 
 .subsBody{
     /* background-color: hotpink; */
