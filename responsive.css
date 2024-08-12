@@ -1,8 +1,8 @@
 @media (width <= 576px){
 
-    /* html{
+    html{
         font-size: 55%;
-    } */
+    }
 
     .grid1{
         grid-template-columns: 1fr;
